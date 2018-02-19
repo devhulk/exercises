@@ -1,0 +1,42 @@
+[
+  {
+    "name" : "Raspberry Pi",
+    "specs" : {
+
+    },
+    "manufacturer" : ""
+
+  },
+  {
+    "name" : "DragonBoard",
+    "specs" : {
+
+    },
+    "manufacturer" : ""
+
+  },
+  {
+    "name" : "Arduino",
+    "specs" : {
+
+    },
+    "manufacturer" : ""
+
+  },
+  {
+    "name" : "Intel Joule",
+    "specs" : {
+
+    },
+    "manufacturer" : ""
+
+  },
+  {
+    "name" : "Beaglebone",
+    "specs" : {
+
+    },
+    "manufacturer" : ""
+
+  }
+]
