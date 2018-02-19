@@ -1,3 +1,4 @@
+### (easy)
 ## Exercise 1
 
 Take JSON file devices.json and use 
