@@ -2,7 +2,11 @@
   {
     "name" : "Raspberry Pi",
     "specs" : {
-
+      "memory" : "",
+      "os" : "",
+      "price" : "",
+      "wifi" : true,
+      "ethernet" : true
     },
     "manufacturer" : ""
 
