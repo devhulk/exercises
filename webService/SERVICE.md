@@ -20,6 +20,10 @@ Here is what your going to do...
 ## Tools
 
 [mLab](http://docs.mlab.com/)
+
 [heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up)
+
 [express](https://www.npmjs.com/package/express)
+
 [xmlHTTPRequest Example](https://stackoverflow.com/questions/3038901/how-to-get-the-response-of-xmlhttprequest)
+
